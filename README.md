@@ -1,5 +1,7 @@
 # nix-ld-rs
 
+DEPRECATED: The code of this repository has been merged into [nix-ld](https://github.com/Mic92/nix-ld).
+
 Run unpatched dynamic binaries on NixOS.
 This is a rewrite of [nix-ld](https://github.com/Mic92/nix-ld) in Rust, with extra functionalities.
 It's intended to be upstreamed at some point.
